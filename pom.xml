@@ -18,15 +18,8 @@
   <packaging>war</packaging>
   <version>1.0</version>
 
-  <groupId>com.google.appengine.demos</groupId>
-  <artifactId>appengine-try-java</artifactId>
-
-  <!-- Parent POM defines common plugins and properties. -->
-  <parent>
-    <groupId>com.google.cloud.samples</groupId>
-    <artifactId>shared-configuration</artifactId>
-    <version>1.0.1</version>
-   </parent>
+  <groupId>com.krugg</groupId>
+  <artifactId>cards</artifactId>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
